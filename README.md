@@ -28,7 +28,6 @@ All color spreads come from:
 Download the latest `OP-ColorSpreads-Downloader.exe` from the releases section and run it directly.
 
 ### Option 2: Run from Source
-
 1. Clone this repository:
 ```bash
 git clone https://github.com/abbas-usj/OnePiece-ColorSpreads.git
