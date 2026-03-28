@@ -50,10 +50,10 @@ python onepiece_cli.py
 ## Usage
 
 ### GUI Version
-1.Click Browse to select your download folder
-2.Click Check for New Images to see what's available
-3.Click Download New Images to start downloading
-4.Use Stop Download to cancel mid-download
+1.Click Browse to select your download folder  
+2.Click Check for New Images to see what's available  
+3.Click Download New Images to start downloading  
+4.Use Stop Download to cancel mid-download  
 ![Alt text](src/OP-ColorSpreads-GUI_Usage.gif)
 
 ### CLI Version
