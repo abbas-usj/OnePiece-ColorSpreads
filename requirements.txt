@@ -1,3 +1,8 @@
-requests
-BeautifulSoup
-PySimpleGUI
+# Core dependencies
+cloudscraper>=1.2.71
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# GUI dependencies
+customtkinter>=5.2.0
+Pillow>=10.0.0
